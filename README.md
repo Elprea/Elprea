@@ -15,10 +15,12 @@ A software engineering student and service operation technician with experience 
 ## Featured Projects
 #### MaHomes
 - Household management tool. Helps users to track/monitor/manage works at home.
+- Currently working on this as an individual project. Willing to collaborate with anyone interested.
 - [Github Link](https://github.com/Elprea/MaHOMES-home-manager)
 
 #### Match Me Game!
 - Simple photo matching game made in Python OOP:
+- Tried to make a game! why not?
 - [Github Link](https://github.com/Elprea/Match-me-game)
 
 #### ContraGo
