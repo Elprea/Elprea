@@ -15,18 +15,24 @@ A software engineering student and service operation technician with experience 
 ## Featured Projects
 #### MaHomes
 - Household management tool. Helps users to track/monitor/manage works at home.
-- https://github.com/Elprea/MaHOMES-home-manager
+- [Github Link](https://github.com/Elprea/MaHOMES-home-manager)
 
 #### Match Me Game!
 - Simple photo matching game made in Python OOP:
-- https://github.com/Elprea/Match-me-game
+- [Github Link](https://github.com/Elprea/Match-me-game)
 
 #### ContraGo
-- Contract creator software that provides easiness for any contractors in creating their own contracts:
-- https://github.com/Elprea/ContraGO2021
+- Contract creator software that provides easiness for any contractors in creating their own contracts.
+- [Github Link](https://github.com/Elprea/ContraGO2021)
 
 #### Digital Twinning of a Human Project
 - Currently working in private as a school project. This is an AI chatbot that constantly interacts to the users.
+- This is my biggest project so far! Using Unreal Engine as the base of the program. Stay tuned!
+
+## Contact Info
+* [LinkedIn](https://www.linkedin.com/in/elson-paul-real-38b9b4159/)
+* [Email](mailto:epaulbreal@gmail.com)
+* [Github](https://github.com/Elprea)
 
 <!--
 **Elprea/Elprea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
