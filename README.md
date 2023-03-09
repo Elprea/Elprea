@@ -1,5 +1,5 @@
 # Hi there, I'm Elson Paul Real
-A software engineering student and service operation technician with experience in troubleshooting, testing, and monitoring of machines. I'm passionate about software development and enjoy solving complex problems with code. I'm also experienced in working in a team environment and have strong communication skills.
+A software engineering student and service operation technician with experience in troubleshooting, testing, and monitoring of machines. I'm passionate about software development and enjoy solving complex problems with code. I'm also experienced in working in a team environment.
 
 ### Skills
 - Proficient in Python, Java, and SQL
