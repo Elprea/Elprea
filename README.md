@@ -5,7 +5,7 @@ A software engineering student and service operation technician with experience 
 - Proficient in Python, Java, and SQL
 - Experienced in web development using HTML, CSS, and JavaScript
 - Familiar with software development tools such as Git, JIRA, and Agile methodologies
-- Skilled in troubleshooting, testing, and monitoring machines
+- Skilled in troubleshooting, testing, and monitoring programs for softwares and even machines
 
 ### Education
 #### University of Silicon Valley, Graduating [April, 2023]
