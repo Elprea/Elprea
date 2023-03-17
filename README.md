@@ -31,6 +31,10 @@ A software engineering student and service operation technician with experience 
 - Currently working in private as a school project. This is an AI chatbot that constantly interacts to the users.
 - This is my biggest project so far! Using Unreal Engine as the base of the program. Stay tuned!
 
+### Future Projects
+#### Homer - ###### Household assistant in mobile
+#### Catch the bee - ###### Tap the bee to catch mobile game
+
 ## Contact Info
 * [LinkedIn](https://www.linkedin.com/in/elson-paul-real-38b9b4159/)
 * [Email](mailto:epaulbreal@gmail.com)
