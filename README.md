@@ -17,7 +17,7 @@ A software engineering student and service operation technician with experience 
 #### Catch Malara
 - A fun and unique mobile bug catching game made with flutter.
 - Testing to see logical reasonings behind gaming stuffs and it is fun!
-- [Github Link]([https://github.com/Elprea/MaHOMES-home-manager](https://github.com/Elprea/Catch-malara))
+- [Github Link](https://github.com/Elprea/Catch-malara)
 
 #### MaHomes
 - Household management tool. Helps users to track/monitor/manage works at home.
