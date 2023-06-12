@@ -46,9 +46,6 @@ A software engineer and service operation technician with experience in troubles
 * [Github](https://github.com/Elprea)
 
  
-      jhbdsjhbnfsdf
-      asdas
- 
 
 <!--
 **Elprea/Elprea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
