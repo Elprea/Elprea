@@ -11,7 +11,6 @@ A software engineer and service operation technician with experience in troubles
 ### Education
 #### University of Silicon Valley, Graduating [April, 2023]
 - Bachelor's Degree in Software Engineering
-- Grade: 3.7 - Dean's Honor Roll
 
 ## Featured Projects
 #### Catch Malara
