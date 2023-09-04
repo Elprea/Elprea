@@ -33,7 +33,7 @@ A software engineer and service operation technician with experience in troubles
 - [Github Link](https://github.com/Elprea/ContraGO2021)
 
 #### Digital Twinning of a Human Project
-- Currently working in private as a school project. This is an AI chatbot that constantly interacts to the users.
+- A private school project. This is an AI chatbot that constantly interacts to the users.
 - This is my biggest project so far! Using Unreal Engine as the base of the program. Stay tuned!
 
 ## Future Projects
