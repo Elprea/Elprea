@@ -27,7 +27,7 @@ A software engineer and service operation technician with experience in troubles
 - A fun and unique mobile bug catching game made with flutter.
 - Testing to see logical reasonings behind gaming stuffs and it is fun!
 - [Github Link](https://github.com/Elprea/Catch-malara)
-- 
+
 #### ContraGo
 - Contract creator software that provides easiness for any contractors in creating their own contracts.
 - [Github Link](https://github.com/Elprea/ContraGO2021)
