@@ -15,9 +15,14 @@ A software engineer and service operation technician with experience in troubles
 ## Featured Projects
 #### MaHomes
 - Household management tool. Helps users to track/monitor/manage works at home.
-- Currently working on this as an individual project. Willing to collaborate with anyone interested.
+- Working on this as an individual project. Willing to collaborate with anyone interested.
 - [Github Link](https://github.com/Elprea/MaHOMES-home-manager)
 
+#### Catch Malara
+- A fun and unique mobile bug catching game made with flutter.
+- Testing to see logical reasonings behind gaming stuffs and it is fun!
+- [Github Link](https://github.com/Elprea/Catch-malara)
+  
 #### Match Me Game!
 - Simple photo matching game made in Python OOP:
 - Tried to make a game! why not?
@@ -26,11 +31,6 @@ A software engineer and service operation technician with experience in troubles
 #### ContraGo
 - Contract creator software that provides easiness for any contractors in creating their own contracts.
 - [Github Link](https://github.com/Elprea/ContraGO2021)
-
-#### Catch Malara
-- A fun and unique mobile bug catching game made with flutter.
-- Testing to see logical reasonings behind gaming stuffs and it is fun!
-- [Github Link](https://github.com/Elprea/Catch-malara)
 
 #### Digital Twinning of a Human Project
 - A private school project. This is an AI chatbot that constantly interacts to the users.
