@@ -18,16 +18,16 @@ A software engineer and service operation technician with experience in troubles
 - Working on this as an individual project. Willing to collaborate with anyone interested.
 - [Github Link](https://github.com/Elprea/MaHOMES-home-manager)
 
-#### Catch Malara
-- A fun and unique mobile bug catching game made with flutter.
-- Testing to see logical reasonings behind gaming stuffs and it is fun!
-- [Github Link](https://github.com/Elprea/Catch-malara)
-  
 #### Match Me Game!
 - Simple photo matching game made in Python OOP:
 - Tried to make a game! why not?
 - [Github Link](https://github.com/Elprea/Match-me-game)
 
+#### Catch Malara
+- A fun and unique mobile bug catching game made with flutter.
+- Testing to see logical reasonings behind gaming stuffs and it is fun!
+- [Github Link](https://github.com/Elprea/Catch-malara)
+- 
 #### ContraGo
 - Contract creator software that provides easiness for any contractors in creating their own contracts.
 - [Github Link](https://github.com/Elprea/ContraGO2021)
