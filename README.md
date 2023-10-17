@@ -1,7 +1,6 @@
 # Hi there, I'm Elson Paul Real
 A software engineer and service operation technician with experience in troubleshooting, testing, and monitoring of machines. I'm passionate about software development and enjoy solving complex problems with code. I'm also experienced in working in a team environment.
 
-
 ### Skills
 - Python, C++, Java, and SQL
 - Experienced in web development using HTML, CSS, and JavaScript
