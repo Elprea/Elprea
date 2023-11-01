@@ -2,7 +2,7 @@
 A software engineer and service operation technician with experience in troubleshooting, testing, and monitoring of machines. I'm passionate about software development and enjoy solving complex problems with code. I'm also experienced in working in a team environment.
 
 ### Skills
-- Python, C++, Java, and SQL
+- Python, C++, Java, and SQL 
 - Experienced in web development using HTML, CSS, and JavaScript
 - Familiar with software development tools such as Git, JIRA, and Agile methodologies
 - Skilled in troubleshooting, testing, and monitoring programs for softwares and even machines
